@@ -1,1 +1,1 @@
-# DP_Slidify
+# Shiny app and Slidify files - Data Products Assignment
