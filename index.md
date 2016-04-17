@@ -9,6 +9,7 @@ hitheme     : tomorrow      #
 widgets     : [mathjax, quiz, bootstrap]  # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
+
 --- .class #id p0
 
 ## Introduction
@@ -55,7 +56,6 @@ chartSeries(IBM.returns , theme="white", type="candlesticks", TA=c(addVo(),addBB
 
 ![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1-1.png)
 
---- .class #id p4
   
 
 
